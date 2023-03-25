@@ -6,8 +6,8 @@
 }
 body{
     font-family: Times,Serif;
-    color: rgb(255, 255, 255);
-    background-color: black;
+    color: rgb(101, 47, 47);
+    background-color: rgb(247, 250, 253);
    }
 .container{
     max-width: 90rem;
@@ -28,8 +28,8 @@ body{
     grid-template-columns: 2fr 1fr;
     max-width: 78rem;
     margin: 0px auto;
-    background: rgb(0, 0, 0);
-    color: rgb(255, 255, 255);
+    background: white;
+    color: rgb(89, 47, 47);
     align-items: center;
     padding: 0px 0px 0px 1rem;
 }
